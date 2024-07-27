@@ -15,7 +15,7 @@ To install the Lead Tracker Extension in your browser, follow these steps:
 
 1. Use git clone command https://github.com/meghads/leadstracker to get the project on your local machine.
 2. Use live server to run the project
-3. 
+   
 ## Usage
 
 After installation, click on the Lead Tracker Extension icon in your browser toolbar to open the dashboard. From here, you can add new leads manually, review captured leads, and adjust settings according to your preferences.
